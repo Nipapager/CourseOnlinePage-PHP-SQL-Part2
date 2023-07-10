@@ -42,13 +42,16 @@ d.	VARCHAR description: όνομα αρχείου εργασίας
 e.	DATE deadline: ημερομηνίας παράδοσης εργασίας
 
 Οδηγίες πρόσβασης χρηστών:
+
 Για να συνδεθείτε στην ιστοσελίδα ως μαθητής (Student) μπορείτε να χρησιμοποιήσετε τους εξής λογαριασμούς:
+
 1. UserName/Email: nikospap@student.gr
    Password : 123
 2. UserName/Email : giannislaf@student.gr
    Password : 123
      
 Για να συνδεθείτε στην ιστοσελίδα ως καθηγητής (Tutor) μπορείτε να χρησιμοποιήσετε τον λογαριασμό:
+
 UserName/Email : giannisas@tutor.gr
 Password : 123
 
