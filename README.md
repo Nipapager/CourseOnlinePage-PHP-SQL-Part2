@@ -49,10 +49,8 @@ e.	DATE deadline: ημερομηνίας παράδοσης εργασίας
    Password : 123
      
 Για να συνδεθείτε στην ιστοσελίδα ως καθηγητής (Tutor) μπορείτε να χρησιμοποιήσετε τον λογαριασμό:
-
-   •	UserName/Email : giannisas@tutor.gr
-   
-   Password : 123
+UserName/Email : giannisas@tutor.gr
+Password : 123
 
 
 **Link για τον δυναμικό ιστοχώρο:**
