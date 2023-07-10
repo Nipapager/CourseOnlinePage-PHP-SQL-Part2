@@ -45,7 +45,7 @@ e.	DATE deadline: ημερομηνίας παράδοσης εργασίας
 1.	Για να συνδεθείτε στην ιστοσελίδα ως μαθητής (Student) μπορείτε να χρησιμοποιήσετε τους εξής λογαριασμούς:
    
    •	UserName/Email : nikospap@student.gr
-  	  Password : 123
+   Password : 123
    •	UserName/Email : giannislaf@student.g
   	  Password : 123
      
