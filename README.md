@@ -71,6 +71,12 @@ http://nipapager.webpages.auth.gr/2918partB/
 
 **English**
 
+Creation of an e-learning website for a course of the Department of Computer Science. In the first part only HTML and CSS are used. 
+
+Link to the first part: https://github.com/Nipapager/CourseOnlinePage-HTML-Part1
+
+In the second part the page communicates with SQL database using php. For the pronunciation of the assignment see the file Pronunciation.docx in the PronunciationAndReport folder
+
 **For the implementation of the dynamic website the following php primitives were used:**
 1. login.php. The page on which the user (student or teacher) logs in to the website. If he puts his data (email, password) correctly then he is transferred to the index.php page.
 2. index.php. The main page of the site. The user enters it after successful login. The page contains general information of the site (introductory text, description of objectives, etc.).
