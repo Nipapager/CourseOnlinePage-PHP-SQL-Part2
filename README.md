@@ -52,5 +52,5 @@ Password : 123
 Password : 123
 
 
-Link για τον δυναμικό ιστοχώρο:
+**Link για τον δυναμικό ιστοχώρο:**
 http://nipapager.webpages.auth.gr/2918partB/
